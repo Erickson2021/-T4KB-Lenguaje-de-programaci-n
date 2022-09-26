@@ -1,1 +1,1 @@
-# -T4KB-Lenguaje-de-programaci-n
+# -T4KB-Lenguaje-de-programacio
